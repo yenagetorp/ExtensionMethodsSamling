@@ -1,0 +1,22 @@
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.deps.json
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.runtimeconfig.json
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.runtimeconfig.dev.json
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.dll
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.pdb
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.csprojAssemblyReference.cache
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.csproj.CoreCompileInputs.cache
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.AssemblyInfoInputs.cache
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.AssemblyInfo.cs
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.dll
+C:\Users\xyagetorp\Documents\Visual Studio 2017\Projects\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.pdb
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.deps.json
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.runtimeconfig.json
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.runtimeconfig.dev.json
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.dll
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\bin\Debug\netcoreapp2.2\Randomize.pdb
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.csprojAssemblyReference.cache
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.csproj.CoreCompileInputs.cache
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.AssemblyInfoInputs.cache
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.AssemblyInfo.cs
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.dll
+C:\Users\xyagetorp\UsefulOldProjects\C#\Randomize\Randomize\obj\Debug\netcoreapp2.2\Randomize.pdb
